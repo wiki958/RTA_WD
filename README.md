@@ -1,1 +1,1 @@
-# RTA_WD
+# Analiza danych w czasie rzeczywistym
